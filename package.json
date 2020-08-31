@@ -1,0 +1,23 @@
+{
+  "name": "sphere-calculations",
+  "version": "1.0.0",
+  "description": "App to calculate pi value in increments and the circumference and surface of a sphere",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniruddha-Raje/sphere-calculations.git"
+  },
+  "author": "Aniruddha Raje",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniruddha-Raje/sphere-calculations/issues"
+  },
+  "homepage": "https://github.com/Aniruddha-Raje/sphere-calculations#readme",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "express": "^4.17.1"
+  }
+}
